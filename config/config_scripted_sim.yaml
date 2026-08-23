@@ -1,0 +1,49 @@
+subinfo_fields: [{name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}]
+subinfo_mapping: {subject_id: 被试编号（3 位数字）, Participant Information: 被试信息, registration_failed: 登记失败, registration_successful: 登记成功, invalid_input: "{field} 输入无效"}
+window: {size: [1280, 800], units: deg, screen: 0, bg_color: black, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 57}
+task:
+  task_name: Binocular Rivalry
+  save_path: ./outputs/sim
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  total_blocks: 1
+  total_trials: 2
+  trial_per_block: 2
+  conditions: [red_left_cyan_right, red_right_cyan_left]
+  condition_weights: {red_left_cyan_right: 1, red_right_cyan_left: 1}
+  key_list: [f, j, space]
+  report_keys: {left_tilt: f, right_tilt: j, mixed: space}
+  seed_mode: same_across_sub
+  overall_seed: 103103
+  delta: 0.0
+  rivalry_stimulus: {aperture_diameter_deg: 8.0, spatial_frequency_cpd: 2.0, left_orientation_deg: -60.0, right_orientation_deg: 60.0, contrast: 0.80, red_gain: 1.0, cyan_gain: 1.0, texture_resolution: 256, fusion_frame_span_deg: 10.0, fusion_frame_width_deg: 0.35, fixation_diameter_deg: 0.25}
+  phase_order: [instruction, alignment_check, practice_rivalry, alignment_fixation, rivalry_report, iti, block_break, good_bye]
+timing: {alignment_duration: 0.5, practice_duration: 1.0, rivalry_duration: 2.0, iti_duration: 0.25}
+stimuli:
+  instruction: {type: text, font: SimHei, text: "双眼竞争模拟：按空格键继续。", color: white, height: 0.68, wrapWidth: 24, pos: [0, 0]}
+  alignment_text: {type: text, font: SimHei, text: "眼镜与对准检查。\n\n按空格键继续。", color: white, height: 0.62, wrapWidth: 22, pos: [0, -6.0]}
+  practice_text: {type: text, font: SimHei, text: "练习。按空格键开始。", color: white, height: 0.68, wrapWidth: 22, pos: [0, 0]}
+  fixation: {type: text, font: SimHei, text: "+", color: white, height: 0.42, pos: [0, 0]}
+  block_break: {type: text, font: SimHei, text: "第 {block_number}/{total_blocks} 区组完成。记录 {report_count} 次报告，交替率 {alternation_rate:.2f} 次/分钟。\n\n按空格键继续。", color: white, height: 0.64, wrapWidth: 24, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "模拟完成。记录 {report_count} 次报告，平均交替率 {alternation_rate:.2f} 次/分钟。\n\n按空格键退出。", color: white, height: 0.66, wrapWidth: 24, pos: [0, 0]}
+triggers:
+  map: {experiment_start: 1, instruction: 5, alignment_check: 6, practice_rivalry: 7, block_start: 10, alignment_fixation: 20, rivalry_red_left_cyan_right: 31, rivalry_red_right_cyan_left: 32, report_left_tilt: 41, report_right_tilt: 42, report_mixed: 43, rivalry_no_report: 44, iti: 50, block_end: 90, experiment_end: 99}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+sim:
+  output_dir: outputs/sim
+  seed: 103103
+  participant_id: sim103
+  session_id: sub-sim103_task-binocular-rivalry_seed103103
+  log_path: outputs/sim/sub-sim103_task-binocular-rivalry_seed103103_sim_events.jsonl
+  policy: warn
+  default_rt_s: 0.05
+  clamp_rt: false
+  enable_scaling: true
+  timing_scale: 0.10
+  min_frames: 1
+  responder:
+    type: scripted
+    kwargs: {key: space, rt_s: 0.05}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "W2094802109",
+    "title": "The Role of Frontal and Parietal Brain Areas in Bistable Perception",
+    "authors": ["Tomas Knapen", "Jan W. Brascamp", "Joel Pearson", "Raymond van Ee", "Randolph Blake"],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/JNEUROSCI.1727-11.2011",
+    "citation_count": 227,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["continuous_report", "dichoptic_presentation", "dominance_duration"],
+    "parameter_bindings": {},
+    "notes": "Primary evidence for sustained dichoptic rivalry, fixation, button reports, and perceptual dominance intervals."
+  },
+  {
+    "id": "W1978904320",
+    "title": "Perceptual Rivalry: Reflexes Reveal the Gradual Nature of Visual Awareness",
+    "authors": ["Marnix Naber", "Stefan Frassle", "Wolfgang Einhauser"],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0020910",
+    "citation_count": 171,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["grating_parameters", "trial_duration", "continuous_report", "mixed_percept"],
+    "parameter_bindings": {},
+    "notes": "Primary behavioral protocol source: opposing sinusoidal gratings, randomized eye/color/orientation assignment, 120-s trials, and continuous dominant-percept reporting."
+  },
+  {
+    "id": "W1995722596",
+    "title": "A method for investigating binocular rivalry in real-time with the steady-state VEP",
+    "authors": ["Rick J. Brown", "Anthony M. Norcia"],
+    "year": 1997,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/S0042-6989(97)00045-X",
+    "citation_count": 160,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["orthogonal_gratings", "continuous_alternation_measurement", "dichoptic_presentation"],
+    "parameter_bindings": {},
+    "notes": "Method evidence that differently oriented dichoptic gratings support real-time tracking of spontaneous perceptual alternations."
+  },
+  {
+    "id": "W2027777783",
+    "title": "Voluntary control and the dynamics of perceptual bi-stability",
+    "authors": ["Raymond van Ee", "Loes C. J. van Dam", "Gijs J. Brouwer"],
+    "year": 2005,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2004.07.030",
+    "citation_count": 213,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": ["orthogonal_grating_rivalry", "natural_viewing_instruction", "temporal_dynamics"],
+    "parameter_bindings": {},
+    "notes": "Supporting evidence for orthogonal grating rivalry and natural-viewing measurement of bistable dynamics."
+  },
+  {
+    "id": "W2095696274",
+    "title": "Strabismic Suppression Is Mediated by Inhibitory Interactions in the Primary Visual Cortex",
+    "authors": ["Frank Sengpiel", "Kay U. Jirmann", "Vasily Vorobyov", "Ulf T. Eysel"],
+    "year": 2005,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhj110",
+    "citation_count": 124,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": ["interocular_suppression_background"],
+    "parameter_bindings": {},
+    "notes": "High-impact mechanistic background only; no behavioral timing or stimulus parameter is taken from this animal physiology study."
+  }
+]

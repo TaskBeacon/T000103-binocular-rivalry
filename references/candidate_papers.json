@@ -1,0 +1,2585 @@
+[
+  {
+    "id": "W2153791616",
+    "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+    "authors": [
+      "Andy Clark"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12000477",
+    "citation_count": 6052,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141031554",
+    "title": "The steady-state visual evoked potential in vision research: A review",
+    "authors": [
+      "Anthony M. Norcia",
+      "Lawrence G. Appelbaum",
+      "Justin M. Ales",
+      "Benoit R. Cottereau",
+      "Bruno Rossion"
+    ],
+    "year": 2015,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/15.6.4",
+    "citation_count": 1267,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1967797786",
+    "title": "Eye movements: The past 25years",
+    "authors": [
+      "Eileen Kowler"
+    ],
+    "year": 2011,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2010.12.014",
+    "citation_count": 624,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157754891",
+    "title": "Predictive coding explains binocular rivalry: An epistemological review",
+    "authors": [
+      "Jakob Hohwy",
+      "Andreas Roepstorff",
+      "Karl Friston"
+    ],
+    "year": 2008,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2008.05.010",
+    "citation_count": 567,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1997854587",
+    "title": "Microsaccades: Small steps on a long way",
+    "authors": [
+      "Martin Rolfs"
+    ],
+    "year": 2009,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2009.08.010",
+    "citation_count": 553,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143062588",
+    "title": "Oscillatory Neuronal Synchronization in Primary Visual Cortex as a Correlate of Stimulus Selection",
+    "authors": [
+      "Pascal Fries",
+      "Jan-Hinrich Schr\u00f6der",
+      "Pieter R. Roelfsema",
+      "Wolf Singer",
+      "Andreas K. Engel"
+    ],
+    "year": 2002,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.22-09-03739.2002",
+    "citation_count": 314,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4206135370",
+    "title": "Binocular vision",
+    "authors": [
+      "Randolph Blake",
+      "Hugh R. Wilson"
+    ],
+    "year": 2010,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2010.10.009",
+    "citation_count": 247,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094802109",
+    "title": "The Role of Frontal and Parietal Brain Areas in Bistable Perception",
+    "authors": [
+      "Tomas Knapen",
+      "Jan W. Brascamp",
+      "Joel Pearson",
+      "Raymond van Ee",
+      "Randolph Blake"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1727-11.2011",
+    "citation_count": 227,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2027777783",
+    "title": "Voluntary control and the dynamics of perceptual bi-stability",
+    "authors": [
+      "Raymond van Ee",
+      "Loes van Dam",
+      "Gijs Joost Brouwer"
+    ],
+    "year": 2004,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2004.07.030",
+    "citation_count": 213,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162873168",
+    "title": "Breaking continuous flash suppression: competing for consciousness on the pre-semantic battlefield",
+    "authors": [
+      "Surya Gayet",
+      "Stefan Van der Stigchel",
+      "Chris Paffen"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00460",
+    "citation_count": 194,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1978904320",
+    "title": "Perceptual Rivalry: Reflexes Reveal the Gradual Nature of Visual Awareness",
+    "authors": [
+      "Marnix Naber",
+      "Stefan Fr\u00e4ssle",
+      "Wolfgang Einh\u00e4user"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0020910",
+    "citation_count": 171,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2108845384",
+    "title": "Neural processing of visual information under interocular suppression: a critical review",
+    "authors": [
+      "Philipp Sterzer",
+      "Timo Stein",
+      "Karin Ludwig",
+      "Marcus Rothkirch",
+      "Guido Hesselmann"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00453",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1995722596",
+    "title": "A method for investigating binocular rivalry in real-time with the steady-state VEP",
+    "authors": [
+      "R. J. Brown",
+      "Anthony M. Norcia"
+    ],
+    "year": 1997,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/s0042-6989(97)00045-x",
+    "citation_count": 160,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2312203572",
+    "title": "Are we predictive engines? Perils, prospects, and the puzzle of the porous perceiver",
+    "authors": [
+      "Andy Clark"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12002440",
+    "citation_count": 158,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2066249645",
+    "title": "Stochastic resonance in binocular rivalry",
+    "authors": [
+      "Yee\u2010Joon Kim",
+      "Marcia Grabowecky",
+      "Satoru Suzuki"
+    ],
+    "year": 2005,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2005.08.009",
+    "citation_count": 147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977345281",
+    "title": "Continuous Flash Suppression Modulates Cortical Activity in Early Visual Cortex",
+    "authors": [
+      "S. Yuval-Greenberg",
+      "David J. Heeger"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4612-12.2013",
+    "citation_count": 131,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2095696274",
+    "title": "Strabismic Suppression Is Mediated by Inhibitory Interactions in the Primary Visual Cortex",
+    "authors": [
+      "Frank Sengpiel",
+      "Kay U. Jirmann",
+      "Vasily Vorobyov",
+      "Ulf T. Eysel"
+    ],
+    "year": 2005,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhj110",
+    "citation_count": 124,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2055050380",
+    "title": "A Model of Binocular Rivalry and Cross-orientation Suppression",
+    "authors": [
+      "Christopher P. Said",
+      "David J. Heeger"
+    ],
+    "year": 2013,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1002991",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104004247",
+    "title": "Experience-Driven Plasticity in Binocular Vision",
+    "authors": [
+      "P. Christiaan Klink",
+      "Jan W. Brascamp",
+      "Randolph Blake",
+      "Richard van Wezel"
+    ],
+    "year": 2010,
+    "journal": "Current Biology",
+    "doi_or_url": "https://doi.org/10.1016/j.cub.2010.06.057",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2906856814",
+    "title": "A new counterintuitive training for adult amblyopia",
+    "authors": [
+      "Claudia Lunghi",
+      "Angela Tindara Sframeli",
+      "Antonio Lepri",
+      "Martina Lepri",
+      "Domenico Lisi",
+      "Alessandro Sale",
+      "Maria Concetta Morrone"
+    ],
+    "year": 2018,
+    "journal": "Annals of Clinical and Translational Neurology",
+    "doi_or_url": "https://doi.org/10.1002/acn3.698",
+    "citation_count": 108,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2091069210",
+    "title": "Semantic Analysis Does Not Occur in the Absence of Awareness Induced by Interocular Suppression",
+    "authors": [
+      "Min-Suk Kang",
+      "Randolph Blake",
+      "Geoffrey F. Woodman"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1691-11.2011",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2081337260",
+    "title": "Reward modulates perception in binocular rivalry",
+    "authors": [
+      "Svenja Marx",
+      "Wolfgang Einh\u00e4user"
+    ],
+    "year": 2015,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/15.1.11",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2264828474",
+    "title": "Visual input signaling threat gains preferential access to awareness in a breaking continuous flash suppression paradigm",
+    "authors": [
+      "Surya Gayet",
+      "Chris Paffen",
+      "Artem V. Belopolsky",
+      "Jan Theeuwes",
+      "Stefan Van der Stigchel"
+    ],
+    "year": 2016,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2016.01.009",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134100708",
+    "title": "Real-time modulation of perceptual eye dominance in humans",
+    "authors": [
+      "Jiawei Zhou",
+      "Alexandre Reynaud",
+      "Robert F. Hess"
+    ],
+    "year": 2014,
+    "journal": "Proceedings of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rspb.2014.1717",
+    "citation_count": 86,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4246229791",
+    "title": "3D Displays",
+    "authors": [
+      "Martin S. Banks",
+      "David M. Hoffman",
+      "Joohwan Kim",
+      "Gordon Wetzstein"
+    ],
+    "year": 2016,
+    "journal": "Annual Review of Vision Science",
+    "doi_or_url": "https://doi.org/10.1146/annurev-vision-082114-035800",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2122468024",
+    "title": "Right parietal brain activity precedes perceptual alternation during binocular rivalry",
+    "authors": [
+      "Juliane Britz",
+      "Michael Pitts",
+      "Christoph M. Michel"
+    ],
+    "year": 2010,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.21117",
+    "citation_count": 78,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2138520388",
+    "title": "Attending to auditory signals slows visual alternations in binocular rivalry",
+    "authors": [
+      "David Alais",
+      "Jeroen J. A. van Boxtel",
+      "Amanda Parker",
+      "Raymond van Ee"
+    ],
+    "year": 2010,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2010.03.010",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1965675916",
+    "title": "Physiology of suppression in strabismic amblyopia.",
+    "authors": [
+      "R A Harrad",
+      "Frank Sengpiel",
+      "Colin Blakemore"
+    ],
+    "year": 1996,
+    "journal": "British Journal of Ophthalmology",
+    "doi_or_url": "https://doi.org/10.1136/bjo.80.4.373",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160130830",
+    "title": "Understanding Attentional Modulation of Binocular Rivalry: A Framework Based on Biased Competition",
+    "authors": [
+      "Kevin C. Dieter",
+      "Duje Tadin"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00155",
+    "citation_count": 74,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1976746860",
+    "title": "Normal binocular rivalry in autism: Implications for the excitation/inhibition imbalance hypothesis",
+    "authors": [
+      "Christopher P. Said",
+      "Ryan Egan",
+      "Nancy J. Minshew",
+      "Marlene Behrmann",
+      "David J. Heeger"
+    ],
+    "year": 2012,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2012.11.002",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104021975",
+    "title": "How to Create and Use Binocular Rivalry",
+    "authors": [
+      "David Carmel",
+      "Michael J. Arcaro",
+      "Sabine K\u00e4stner",
+      "Uri Hasson"
+    ],
+    "year": 2010,
+    "journal": "Journal of Visualized Experiments",
+    "doi_or_url": "https://doi.org/10.3791/2030",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2294672929",
+    "title": "The Complex Interplay Between Multisensory Integration and Perceptual Awareness",
+    "authors": [
+      "Oph\u00e9lia Deroy",
+      "Nathan Faivre",
+      "Claudia Lunghi",
+      "Charles Spence",
+      "M\u00e1t\u00e9 Aller",
+      "Uta Noppeney"
+    ],
+    "year": 2016,
+    "journal": "Multisensory Research",
+    "doi_or_url": "https://doi.org/10.1163/22134808-00002529",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2463625189",
+    "title": "Binocular rivalry from invisible patterns",
+    "authors": [
+      "Jinyou Zou",
+      "Sheng He",
+      "Peng Zhang"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1604816113",
+    "citation_count": 72,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164042028",
+    "title": "United we sense, divided we fail: context-driven perception of ambiguous visual stimuli",
+    "authors": [
+      "P. Christiaan Klink",
+      "Richard van Wezel",
+      "Raymond van Ee"
+    ],
+    "year": 2012,
+    "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "doi_or_url": "https://doi.org/10.1098/rstb.2011.0358",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2106982380",
+    "title": "A transition between eye and object rivalry determined by stimulus coherence",
+    "authors": [
+      "Yoram Bonneh",
+      "Dov Sagi",
+      "Avi Karni"
+    ],
+    "year": 2001,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/s0042-6989(01)00013-x",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2089662152",
+    "title": "Interactions between global motion and local binocular rivalry",
+    "authors": [
+      "David Alais",
+      "Randolph Blake"
+    ],
+    "year": 1998,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/s0042-6989(97)00190-9",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1995909336",
+    "title": "High-level face shape adaptation depends on visual awareness: Evidence from continuous flash suppression",
+    "authors": [
+      "Timo Stein",
+      "Philipp Sterzer"
+    ],
+    "year": 2011,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/11.8.5",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3000297466",
+    "title": "Sensory Eye Dominance: Relationship Between Eye and Brain",
+    "authors": [
+      "Teng Leng Ooi",
+      "Zijiang J. He"
+    ],
+    "year": 2020,
+    "journal": "Eye and Brain",
+    "doi_or_url": "https://doi.org/10.2147/eb.s176931",
+    "citation_count": 62,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1975086486",
+    "title": "The Role of the Primary Visual Cortex in Perceptual Suppression of Salient Visual Stimuli",
+    "authors": [
+      "Georgios A. Keliris",
+      "Nikos K. Logothetis",
+      "Andreas S. Tolias"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0677-10.2010",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145610277",
+    "title": "Causing and curing infantile esotropia in primates: the role of decorrelated binocular input (an American Ophthalmological Society thesis).",
+    "authors": [
+      "Lawrence Tychsen"
+    ],
+    "year": 2007,
+    "journal": "PubMed",
+    "doi_or_url": "https://openalex.org/W2145610277",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124903139",
+    "title": "Early Visual Responses Predict Conscious Face Perception within and between Subjects during Binocular Rivalry",
+    "authors": [
+      "Kristian Sandberg",
+      "Bahador Bahrami",
+      "Ryota Kanai",
+      "Gareth R. Barnes",
+      "Morten Overgaard",
+      "Geraint Rees"
+    ],
+    "year": 2013,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_00353",
+    "citation_count": 58,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2464571272",
+    "title": "Collective Activity of Many Bistable Assemblies Reproduces Characteristic Dynamics of Multistable Perception",
+    "authors": [
+      "Renmeng Cao",
+      "Alexander Pastukhov",
+      "Maurizio Mattia",
+      "Jochen Braun"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4626-15.2016",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2987595104",
+    "title": "Unraveling nonlinear electrophysiologic processes in the human visual system with full dimension spectral analysis",
+    "authors": [
+      "Kien Nguyen",
+      "Wei\u2010Kuang Liang",
+      "Victor Lee",
+      "Wen-Sheng Chang",
+      "Neil G. Muggleton",
+      "Jia\u2010Rong Yeh",
+      "Norden E. Huang",
+      "Chi-Hung Juan"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-019-53286-z",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105899802",
+    "title": "Attentional Switching in Humans and Flies: Rivalry in Large and Miniature Brains",
+    "authors": [
+      "Steven M. Miller",
+      "Trung T. Ngo",
+      "Bruno van Swinderen"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00188",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2148497548",
+    "title": "How does binocular rivalry emerge from cortical mechanisms of 3-D vision?",
+    "authors": [
+      "Stephen Grossberg",
+      "Arash Yazdanbakhsh",
+      "Yongqiang Cao",
+      "Guru Swaminathan"
+    ],
+    "year": 2008,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2008.06.024",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1996893172",
+    "title": "On the relation between dichoptic masking and binocular rivalry",
+    "authors": [
+      "Daniel H. Baker",
+      "Erich W. Graf"
+    ],
+    "year": 2009,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2008.12.002",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2304901011",
+    "title": "Rivalry-Like Neural Activity in Primary Visual Cortex in Anesthetized Monkeys",
+    "authors": [
+      "Haoran Xu",
+      "Chao Han",
+      "Ming Chen",
+      "Peichao Li",
+      "Shude Zhu",
+      "Yang Fang",
+      "Jiaming Hu",
+      "Heng Ma",
+      "Haidong Lu"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3660-15.2016",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167801102",
+    "title": "How emotional arousal and valence influence access to awareness",
+    "authors": [
+      "Bhavin R. Sheth",
+      "Thuan Pham"
+    ],
+    "year": 2008,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2008.07.013",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2597382744",
+    "title": "An exploratory factor analysis of visual performance in a large population",
+    "authors": [
+      "Jenny M. Bosten",
+      "Patrick T. Goodbourn",
+      "Gary Bargary",
+      "Roeland J. Verhallen",
+      "Adam J. Lawrance-Owen",
+      "Ruth Hogg",
+      "J. D. Mollon"
+    ],
+    "year": 2017,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2017.02.005",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068172601",
+    "title": "Thalamocortical dynamics of the McCollough effect: boundary-surface alignment through perceptual learning",
+    "authors": [
+      "Stephen Grossberg",
+      "Seungwoo Hwang",
+      "Ennio Mingolla"
+    ],
+    "year": 2002,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/s0042-6989(02)00055-x",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2169915590",
+    "title": "Configuration saliency revealed in short duration binocular rivalry",
+    "authors": [
+      "Yoram Bonneh",
+      "Dov Sagi"
+    ],
+    "year": 1999,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/s0042-6989(98)00112-6",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2802828097",
+    "title": "Similar but separate systems underlie perceptual bistability in vision and audition",
+    "authors": [
+      "Susan L. Denham",
+      "D\u00e1vid Farkas",
+      "Raymond van Ee",
+      "Mihaela \u0162\u0103ranu",
+      "Zsuzsanna Kocsis",
+      "Marina C. Wimmer",
+      "David Carmel",
+      "Istv\u00e1n Winkler"
+    ],
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-25587-2",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094563761",
+    "title": "Distinct MEG correlates of conscious experience, perceptual reversals and stabilization during binocular rivalry",
+    "authors": [
+      "Kristian Sandberg",
+      "Gareth R. Barnes",
+      "Bahador Bahrami",
+      "Ryota Kanai",
+      "Morten Overgaard",
+      "Geraint Rees"
+    ],
+    "year": 2014,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2014.06.023",
+    "citation_count": 40,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2946557383",
+    "title": "Slower and Less Variable Binocular Rivalry Rates in Patients With Bipolar Disorder, OCD, Major Depression, and Schizophrenia",
+    "authors": [
+      "Xing Ye",
+      "Ruo-Lin Zhu",
+      "Xiao-Qin Zhou",
+      "Sheng He",
+      "Kai Wang"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2019.00514",
+    "citation_count": 39,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2622210213",
+    "title": "Feedback from higher to lower visual areas for visual recognition may be weaker in the periphery: Glimpses from the perception of brief dichoptic stimuli",
+    "authors": [
+      "Li Zhaoping"
+    ],
+    "year": 2017,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2017.05.002",
+    "citation_count": 38,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2057554794",
+    "title": "A BOLD Perspective on Age-Related Neurometabolic-Flow Coupling and Neural Efficiency Changes in Human Visual Cortex",
+    "authors": [
+      "Joanna L. Hutchison",
+      "Ehsan Shokri\u2010Kojori",
+      "Hanzhang Lu",
+      "Bart Rypma"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00244",
+    "citation_count": 38,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2063633026",
+    "title": "Binocular Integration of Pattern Motion Signals by MT Neurons and by Human Observers",
+    "authors": [
+      "Chris Tailby",
+      "Najib J. Majaj",
+      "J. Anthony Movshon"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4552-09.2010",
+    "citation_count": 37,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035406164",
+    "title": "A spatially collocated sound thrusts a flash into awareness",
+    "authors": [
+      "M\u00e1t\u00e9 Aller",
+      "Anette S. Giani",
+      "Verena Conrad",
+      "Masataka Watanabe",
+      "Uta Noppeney"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Integrative Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnint.2015.00016",
+    "citation_count": 37,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2952622875",
+    "title": "A comparison of tests for quantifying sensory eye dominance",
+    "authors": [
+      "Manuela Bossi",
+      "Lisa M. Hamm",
+      "Annegret Dahlmann\u2010Noor",
+      "Steven C. Dakin"
+    ],
+    "year": 2018,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2018.09.006",
+    "citation_count": 35,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950782351",
+    "title": "Attention periodically samples competing stimuli during binocular rivalry",
+    "authors": [
+      "Matthew Davidson",
+      "David Alais",
+      "Jeroen J. A. van Boxtel",
+      "Naotsugu Tsuchiya"
+    ],
+    "year": 2018,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.40868",
+    "citation_count": 35,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051540327",
+    "title": "A bias for looming stimuli to predominate in binocular rivalry",
+    "authors": [
+      "Amanda Parker",
+      "David Alais"
+    ],
+    "year": 2007,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2007.06.019",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1993085054",
+    "title": "Contrast summation across eyes and space is revealed along the entire dipper function by a \"Swiss cheese\" stimulus",
+    "authors": [
+      "Tim S. Meese",
+      "Daniel H. Baker"
+    ],
+    "year": 2011,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/11.1.23",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971716629",
+    "title": "Reinforcement of perceptual inference: reward and punishment alter conscious visual perception during binocular rivalry",
+    "authors": [
+      "Gregor Wilbertz",
+      "Joanne van Slooten",
+      "Philipp Sterzer"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.01377",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1969888386",
+    "title": "Binocular fusion, suppression and diplopia for blurred edges",
+    "authors": [
+      "Mark A. Georgeson",
+      "Stuart A. Wallis"
+    ],
+    "year": 2014,
+    "journal": "Ophthalmic and Physiological Optics",
+    "doi_or_url": "https://doi.org/10.1111/opo.12108",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2504536834",
+    "title": "Social Interactions Receive Priority to Conscious Perception",
+    "authors": [
+      "Junzhu Su",
+      "Jeroen J. A. van Boxtel",
+      "Hongjing Lu"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0160468",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2525259008",
+    "title": "Visual input that matches the content of visual working memory requires less (not faster) evidence sampling to reach conscious access",
+    "authors": [
+      "Surya Gayet",
+      "Leendert van Maanen",
+      "Micha Heilbron",
+      "Chris Paffen",
+      "Stefan Van der Stigchel"
+    ],
+    "year": 2016,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/16.11.26",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142444529",
+    "title": "Distinct Contributions of the Magnocellular and Parvocellular Visual Streams to Perceptual Selection",
+    "authors": [
+      "Rachel N. Denison",
+      "Michael A. Silver"
+    ],
+    "year": 2011,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_00121",
+    "citation_count": 33,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3184123568",
+    "title": "Attentional eye selection modulates sensory eye dominance",
+    "authors": [
+      "Mengxin Wang",
+      "Paul V. McGraw",
+      "Timothy Ledgeway"
+    ],
+    "year": 2021,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2021.06.006",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2596633716",
+    "title": "Binocular rivalry in children on the autism spectrum",
+    "authors": [
+      "Themelis Karaminis",
+      "Claudia Lunghi",
+      "Louise Neil",
+      "David C. Burr",
+      "Elizabeth Pellicano"
+    ],
+    "year": 2017,
+    "journal": "Autism Research",
+    "doi_or_url": "https://doi.org/10.1002/aur.1749",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140311023",
+    "title": "Neuronal Responses during and after the Presentation of Static Visual Stimuli in Macaque Primary Visual Cortex",
+    "authors": [
+      "Douglas McLelland",
+      "Pamela M. Baker",
+      "Bashir Ahmed",
+      "Wyeth Bair"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0815-10.2010",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2569469060",
+    "title": "Short-Term Monocular Deprivation Enhances Physiological Pupillary Oscillations",
+    "authors": [
+      "Paola Binda",
+      "Claudia Lunghi"
+    ],
+    "year": 2017,
+    "journal": "Neural Plasticity",
+    "doi_or_url": "https://doi.org/10.1155/2017/6724631",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2079988249",
+    "title": "Similar Effects of Feature-Based Attention on Motion Perception and Pursuit Eye Movements at Different Levels of Awareness",
+    "authors": [
+      "Miriam Spering",
+      "Marisa Carrasco"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0355-12.2012",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2074242382",
+    "title": "Naturalistic Stimulus Structure Determines the Integration of Audiovisual Looming Signals in Binocular Rivalry",
+    "authors": [
+      "Verena Conrad",
+      "M Kleiner",
+      "Andreas Bartels",
+      "Jessica Hartcher O'Brien",
+      "HH B\u00fclthoff",
+      "Uta Noppeney"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0070710",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2914035956",
+    "title": "Cholinergic Potentiation Alters Perceptual Eye Dominance Plasticity Induced by a Few Hours of Monocular Patching in Adults",
+    "authors": [
+      "Yasha Sheynin",
+      "Mira Chamoun",
+      "Alex S. Baldwin",
+      "Pedro Rosa\u2010Neto",
+      "Robert F. Hess",
+      "Elvire Vaucher"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2019.00022",
+    "citation_count": 30,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3004134748",
+    "title": "After-effects and the reach of perceptual content",
+    "authors": [
+      "Joulia Smortchkova"
+    ],
+    "year": 2020,
+    "journal": "Synthese",
+    "doi_or_url": "https://doi.org/10.1007/s11229-020-02554-x",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3023443588",
+    "title": "Perceptual rivalry across animal species",
+    "authors": [
+      "Olivia Carter",
+      "Bruno van Swinderen",
+      "David A. Leopold",
+      "Shaun P. Collin",
+      "Alexander Maier"
+    ],
+    "year": 2020,
+    "journal": "The Journal of Comparative Neurology",
+    "doi_or_url": "https://doi.org/10.1002/cne.24939",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2740067013",
+    "title": "Interocularly merged face percepts eliminate binocular rivalry",
+    "authors": [
+      "P. Christiaan Klink",
+      "Daphne Boucherie",
+      "Damiaan Denys",
+      "Pieter R. Roelfsema",
+      "Matthew W. Self"
+    ],
+    "year": 2017,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-017-08023-9",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2898597631",
+    "title": "On Sensory Eye Dominance Revealed by Binocular Integrative and Binocular Competitive Stimuli",
+    "authors": [
+      "Chao Han",
+      "Zijiang J. He",
+      "Teng Leng Ooi"
+    ],
+    "year": 2018,
+    "journal": "Investigative Ophthalmology & Visual Science",
+    "doi_or_url": "https://doi.org/10.1167/iovs.18-24342",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133418274",
+    "title": "Increased readiness for adaptation and faster alternation rates under binocular rivalry in children",
+    "authors": [
+      "Mariann Hud\u00e1k"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00128",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3027678195",
+    "title": "Short-term monocular deprivation reduces inter-ocular suppression of the deprived eye",
+    "authors": [
+      "Mengxin Wang",
+      "Paul V. McGraw",
+      "Timothy Ledgeway"
+    ],
+    "year": 2020,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2020.05.001",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054998635",
+    "title": "When can attention influence binocular rivalry?",
+    "authors": [
+      "Kevin C. Dieter",
+      "Michael D. Melnick",
+      "Duje Tadin"
+    ],
+    "year": 2015,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-015-0905-6",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2087279875",
+    "title": "Importance of phase alignment for interocular suppression",
+    "authors": [
+      "Goro Maehara",
+      "Pi\u2010Chun Huang",
+      "Robert F. Hess"
+    ],
+    "year": 2009,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2009.04.020",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142355938",
+    "title": "Temporal frequency and contrast tagging bias the type of competition in interocular switch rivalry",
+    "authors": [
+      "Michael A. Silver",
+      "Nikos K. Logothetis"
+    ],
+    "year": 2006,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2006.10.011",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2766267829",
+    "title": "Unitary and dual models of phenomenal consciousness",
+    "authors": [
+      "Tom\u00e1\u0161 Marvan",
+      "Michal Pol\u00e1k"
+    ],
+    "year": 2017,
+    "journal": "Consciousness and Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.concog.2017.09.006",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2331523217",
+    "title": "Attention is more than prediction precision",
+    "authors": [
+      "Howard Bowman",
+      "Marco Filetti",
+      "Brad Wyble",
+      "Christian N. L. Olivers"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12002324",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2082464881",
+    "title": "Color and Luminance Influence, but Can Not Explain, Binocular Rivalry Onset Bias",
+    "authors": [
+      "Jody Stanley",
+      "Olivia Carter",
+      "Jason D. Forte"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0018978",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2075159859",
+    "title": "Linear binocular combination of responses to contrast modulation: Contrast-weighted summation in first- and second-order vision",
+    "authors": [
+      "Jiawei Zhou",
+      "Mark A. Georgeson",
+      "R. F. Hess"
+    ],
+    "year": 2014,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/14.13.24",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2122528098",
+    "title": "Deconstructing Interocular Suppression: Attention and Divisive Normalization",
+    "authors": [
+      "Hsin-Hung Li",
+      "Marisa Carrasco",
+      "David J. Heeger"
+    ],
+    "year": 2015,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1004510",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099963845",
+    "title": "High-Level Binocular Rivalry Effects",
+    "authors": [
+      "Michal Wolf",
+      "Shaul Hochstein"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00129",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2087305412",
+    "title": "Keep Your Eyes on Development: The Behavioral and Neurophysiological Development of Visual Mechanisms Underlying Form Processing",
+    "authors": [
+      "Carlijn van den Boomen",
+      "Maarten J. van der Smagt",
+      "Chantal Kemner"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2012.00016",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950159742",
+    "title": "Optokinetic nystagmus reflects perceptual directions in the onset binocular rivalry in Parkinson\u2019s disease",
+    "authors": [
+      "Mana Fujiwara",
+      "Catherine Ding",
+      "Lisandro Kaunitz",
+      "Julie C. Stout",
+      "Dominic Thyagarajan",
+      "Naotsugu Tsuchiya"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0173707",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4320920476",
+    "title": "Neural circuits for binocular vision: Ocular dominance, interocular matching, and disparity selectivity",
+    "authors": [
+      "Jianhua Cang",
+      "Jieming Fu",
+      "Seiji Tanabe"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Neural Circuits",
+    "doi_or_url": "https://doi.org/10.3389/fncir.2023.1084027",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3200825233",
+    "title": "The Certainty of Ambiguity in Visual Neural Representations",
+    "authors": [
+      "Jan W. Brascamp",
+      "Steven K. Shevell"
+    ],
+    "year": 2021,
+    "journal": "Annual Review of Vision Science",
+    "doi_or_url": "https://doi.org/10.1146/annurev-vision-100419-125929",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2517534835",
+    "title": "Induction of Kanizsa Contours Requires Awareness of the Inducing Context",
+    "authors": [
+      "Theodora Banica",
+      "D. Samuel Schwarzkopf"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0161177",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2898134760",
+    "title": "Early Visual Processing of Feature Saliency Tasks: A Review of Psychophysical Experiments",
+    "authors": [
+      "Shiva Kamkar",
+      "Hamid Abrishami Moghaddam",
+      "Reza Lashgari"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2018.00054",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4284886573",
+    "title": "CFS-crafter: An open-source tool for creating and analyzing images for continuous flash suppression experiments",
+    "authors": [
+      "Guandong Wang",
+      "David Alais",
+      "Randolph Blake",
+      "Shui\u2019er Han"
+    ],
+    "year": 2022,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-022-01903-7",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036103633",
+    "title": "Binocular Flash Suppression in the Primary Visual Cortex of Anesthetized and Awake Macaques",
+    "authors": [
+      "Hamed Bahmani",
+      "Yusuke Murayama",
+      "Nikos K. Logothetis",
+      "Georgios A. Keliris"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0107628",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2003421804",
+    "title": "Onset Time of Binocular Rivalry and Duration of Inter-Dominance Periods as Psychophysical Markers of ADHD",
+    "authors": [
+      "J. Antonio Aznar-Casanova",
+      "Juan Antonio Amador",
+      "Manuel Moreno S\u00e1nchez",
+      "Hans Sup\u00e8r"
+    ],
+    "year": 2013,
+    "journal": "Perception",
+    "doi_or_url": "https://doi.org/10.1068/p7203",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2568176157",
+    "title": "Personality Measures Link Slower Binocular Rivalry Switch Rates to Higher Levels of Self-Discipline",
+    "authors": [
+      "Anna Antinori",
+      "Luke D. Smillie",
+      "Olivia Carter"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.02008",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2888447692",
+    "title": "Unconscious processing of facial expression as revealed by affective priming under continuous flash suppression",
+    "authors": [
+      "Yung\u2010Hao Yang",
+      "Su\u2010Ling Yeh"
+    ],
+    "year": 2018,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-018-1437-6",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020567808",
+    "title": "Predicting Visual Consciousness Electrophysiologically from Intermittent Binocular Rivalry",
+    "authors": [
+      "Robert P. O\u2019Shea",
+      "J\u00fcrgen Kornmeier",
+      "Urte Roeber"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0076134",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2018374236",
+    "title": "Influence of Contrast and Coherence on the Temporal Dynamics of Binocular Motion Rivalry",
+    "authors": [
+      "Artem Platonov",
+      "Jeroen Goossens"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0071931",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2536306890",
+    "title": "Early Cross-modal Plasticity in Adults",
+    "authors": [
+      "Luca Lo Verde",
+      "Maria Concetta Morrone",
+      "Claudia Lunghi"
+    ],
+    "year": 2016,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_01067",
+    "citation_count": 19,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2972835878",
+    "title": "Visual objects interact differently during encoding and memory maintenance",
+    "authors": [
+      "Stefan Czoschke",
+      "Benjamin Peters",
+      "Benjamin Rahm",
+      "Jochen Kaiser",
+      "Christoph Bledowski"
+    ],
+    "year": 2019,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-019-01861-x",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119653448",
+    "title": "Binding binding: Departure points for a different version of the perceptual retouch theory",
+    "authors": [
+      "Talis Bachmann"
+    ],
+    "year": 2007,
+    "journal": "Advances in Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.2478/v10053-008-0013-4",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3205302621",
+    "title": "Exercise alone impacts short-term adult visual neuroplasticity in a monocular deprivation paradigm",
+    "authors": [
+      "Lucas Virathone",
+      "Bao N. Nguyen",
+      "Fiona Dobson",
+      "Olivia Carter",
+      "Allison M. McKendrick"
+    ],
+    "year": 2021,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/jov.21.11.12",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2113229578",
+    "title": "Binding and Response Selection in the Temporal Domain - a New Paradigm for Neurobiological Research",
+    "authors": [
+      "Andreas K. Engel",
+      "Pieter R. Roelfsema",
+      "Pascal Fries",
+      "Michael Brecht",
+      "Wolf Singer"
+    ],
+    "year": 1997,
+    "journal": "Data Archiving and Networked Services (DANS)",
+    "doi_or_url": "https://openalex.org/W2113229578",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4212935737",
+    "title": "Binocular luster \u2013 A review",
+    "authors": [
+      "Gunnar Wendt",
+      "Franz Faul"
+    ],
+    "year": 2022,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2022.108008",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2035180715",
+    "title": "Stimulus flicker alters interocular grouping during binocular rivalry",
+    "authors": [
+      "Tomas Knapen",
+      "Chris Paffen",
+      "Ryota Kanai",
+      "Raymond van Ee"
+    ],
+    "year": 2006,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2006.09.007",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4205755676",
+    "title": "How to Create and Use Binocular Rivalry",
+    "authors": [
+      "David Carmel",
+      "Michael J. Arcaro",
+      "Sabine K\u00e4stner",
+      "Uri Hasson"
+    ],
+    "year": 2010,
+    "journal": "Journal of Visualized Experiments",
+    "doi_or_url": "https://doi.org/10.3791/2030-v",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031813104",
+    "title": "Image-Based Grouping during Binocular Rivalry Is Dictated by Eye-Of-Origin",
+    "authors": [
+      "Sjoerd Stuit",
+      "Chris Paffen",
+      "Maarten J. van der Smagt",
+      "Frans A.J. Verstraten"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0095327",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2996664428",
+    "title": "Interocular difference thresholds are mediated by binocular differencing, not summing, channels",
+    "authors": [
+      "Frederick A. A. Kingdom",
+      "Nour M. Seulami",
+      "Ben J. Jennings",
+      "Mark A. Georgeson"
+    ],
+    "year": 2019,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/19.14.18",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2802371921",
+    "title": "The influence of action-effect anticipation on bistable perception: differences between onset rivalry and ambiguous motion",
+    "authors": [
+      "Myrthel Dogge",
+      "Surya Gayet",
+      "Ruud Custers",
+      "Henk Aarts"
+    ],
+    "year": 2018,
+    "journal": "Neuroscience of Consciousness",
+    "doi_or_url": "https://doi.org/10.1093/nc/niy004",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2062909876",
+    "title": "Assessing Attention Deficit by Binocular Rivalry",
+    "authors": [
+      "Juan Antonio Amador",
+      "J. Antonio Aznar-Casanova",
+      "Juan Jairo Ortiz-Guerra",
+      "Manuel Moreno-S\u00e1nchez",
+      "Antonio Medina-Pe\u00f1a"
+    ],
+    "year": 2013,
+    "journal": "Journal of Attention Disorders",
+    "doi_or_url": "https://doi.org/10.1177/1087054713482686",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977277115",
+    "title": "Interference between Conscious and Unconscious Facial Expression Information",
+    "authors": [
+      "Xing Ye",
+      "Sheng He",
+      "Ying Hu",
+      "Yong Qiang Yu",
+      "Kai Wang"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0105156",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2009840379",
+    "title": "Bistable Percepts in the Brain: fMRI Contrasts Monocular Pattern Rivalry and Binocular Rivalry",
+    "authors": [
+      "Athena Buckthought",
+      "S. Jessula",
+      "Janine D. Mendola"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0020367",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2027363737",
+    "title": "Can eye of origin serve as a deviant? Visual mismatch negativity from binocular rivalry",
+    "authors": [
+      "Manja van Rhijn",
+      "Urte Roeber",
+      "Robert P. O\u2019Shea"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00190",
+    "citation_count": 14,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1993323087",
+    "title": "Dichoptic Viewing Methods for Binocular Rivalry Research: Prospects for Large-Scale Clinical and Genetic Studies",
+    "authors": [
+      "P. C. F. Law",
+      "Bryan Paton",
+      "Richard H. Thomson",
+      "Guang B. Liu",
+      "Steven M. Miller",
+      "Trung T. Ngo"
+    ],
+    "year": 2013,
+    "journal": "Twin Research and Human Genetics",
+    "doi_or_url": "https://doi.org/10.1017/thg.2013.76",
+    "citation_count": 14,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163863386",
+    "title": "Suppressed Visual Looming Stimuli are Not Integrated with Auditory Looming Signals: Evidence from Continuous Fash Suppression",
+    "authors": [
+      "Pieter Moors",
+      "Hanne Huygelier",
+      "Johan Wagemans",
+      "Lee de\u2010Wit",
+      "Raymond van Ee"
+    ],
+    "year": 2015,
+    "journal": "i-Perception",
+    "doi_or_url": "https://doi.org/10.1068/i0678",
+    "citation_count": 14,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2922064991",
+    "title": "Effects of Hunger on Visual Perception in Binocular Rivalry",
+    "authors": [
+      "Xin Weng",
+      "Lin Qi",
+      "Ye Ma",
+      "Peng Yu",
+      "Yang Hu",
+      "Ke Zhou",
+      "Fengtao Shen",
+      "Huimin Wang",
+      "Zhaoxin Wang"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2019.00418",
+    "citation_count": 14,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

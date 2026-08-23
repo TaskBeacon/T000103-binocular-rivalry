@@ -1,0 +1,20 @@
+id: T000103
+slug: binocular-rivalry
+title: Binocular Rivalry
+acquisition: behavior
+variant: baseline
+cognitive_domain: [visual-awareness, bistable-perception, interocular-suppression]
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.1523/JNEUROSCI.1727-11.2011
+  - https://doi.org/10.1371/journal.pone.0020910
+  - https://doi.org/10.1016/S0042-6989(97)00045-X
+  - https://doi.org/10.1016/j.visres.2004.07.030
+  - https://doi.org/10.1093/cercor/bhj110
+maintainer: [TaskBeacon]

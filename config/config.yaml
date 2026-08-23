@@ -1,0 +1,78 @@
+subinfo_fields:
+  - {name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}
+  - {name: age, type: int, constraints: {min: 18, max: 80}}
+subinfo_mapping:
+  subject_id: 被试编号（3 位数字）
+  age: 年龄
+  Participant Information: 被试信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "{field} 输入无效"
+
+window: {size: [1280, 800], units: deg, screen: 0, bg_color: black, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 57}
+
+task:
+  task_name: Binocular Rivalry
+  save_path: ./outputs/human
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  total_blocks: 2
+  total_trials: 4
+  trial_per_block: 2
+  conditions: [red_left_cyan_right, red_right_cyan_left]
+  condition_weights: {red_left_cyan_right: 1, red_right_cyan_left: 1}
+  key_list: [f, j, space]
+  report_keys: {left_tilt: f, right_tilt: j, mixed: space}
+  seed_mode: same_within_sub
+  overall_seed: 103103
+  delta: 0.0
+  rivalry_stimulus:
+    aperture_diameter_deg: 8.0
+    spatial_frequency_cpd: 2.0
+    left_orientation_deg: -60.0
+    right_orientation_deg: 60.0
+    contrast: 0.80
+    red_gain: 1.0
+    cyan_gain: 1.0
+    texture_resolution: 512
+    fusion_frame_span_deg: 10.0
+    fusion_frame_width_deg: 0.35
+    fixation_diameter_deg: 0.25
+  phase_order: [instruction, alignment_check, practice_rivalry, alignment_fixation, rivalry_report, iti, block_break, good_bye]
+
+timing: {alignment_duration: 2.0, practice_duration: 12.0, rivalry_duration: 120.0, iti_duration: 2.0}
+
+stimuli:
+  instruction:
+    type: text
+    font: SimHei
+    text: |-
+      双眼竞争任务
+
+      本任务必须佩戴红—青滤色眼镜：红色镜片覆盖左眼，青色镜片覆盖右眼。
+      请保持头部稳定，并始终注视中央小点。
+
+      两眼将同时接收方向不相容的条纹。虽然屏幕图像保持不变，
+      你的知觉可能在左倾条纹、右倾条纹和混合图案之间自发变化。
+
+      看到左倾条纹占主导时按 F；看到右倾条纹占主导时按 J；
+      两种图案明显混合时按空格。每当知觉状态改变时按一次相应按键。
+      本任务没有正确或错误答案，请按实际知觉报告。
+
+      按空格键继续检查眼镜与对准状态。
+    color: white
+    height: 0.62
+    wrapWidth: 25
+    pos: [0, 0]
+  alignment_text: {type: text, font: SimHei, text: "眼镜检查：红镜片应覆盖左眼，青镜片应覆盖右眼。\n请确认中央框架清晰、左右彩色标记都能看到；若重影明显，请调整坐姿和眼镜。\n\n按空格键进入练习。", color: white, height: 0.56, wrapWidth: 24, pos: [0, -6.0]}
+  practice_text: {type: text, font: SimHei, text: "练习：保持注视中央点。知觉改变时按 F、J 或空格。\n按空格键开始 12 秒练习。", color: white, height: 0.62, wrapWidth: 24, pos: [0, 0]}
+  fixation: {type: text, font: SimHei, text: "+", color: white, height: 0.42, pos: [0, 0]}
+  block_break: {type: text, font: SimHei, text: "第 {block_number}/{total_blocks} 区组完成。\n\n本区组记录到 {report_count} 次知觉报告，左右倾斜之间的交替率为 {alternation_rate:.2f} 次/分钟。\n这些数值只用于检查记录是否完整，不代表成绩。\n\n可以稍作休息，按空格键继续。", color: white, height: 0.64, wrapWidth: 24, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "任务完成。\n\n共记录 {report_count} 次知觉报告；左右倾斜之间的平均交替率为 {alternation_rate:.2f} 次/分钟。\n数据已保存，用于分析知觉占优时长和自发交替。\n\n按空格键退出。", color: white, height: 0.66, wrapWidth: 24, pos: [0, 0]}
+
+triggers:
+  map: {experiment_start: 1, instruction: 5, alignment_check: 6, practice_rivalry: 7, block_start: 10, alignment_fixation: 20, rivalry_red_left_cyan_right: 31, rivalry_red_right_cyan_left: 32, report_left_tilt: 41, report_right_tilt: 42, report_mixed: 43, rivalry_no_report: 44, iti: 50, block_end: 90, experiment_end: 99}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
