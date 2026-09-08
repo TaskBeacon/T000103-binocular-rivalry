@@ -29,7 +29,7 @@ stimuli:
   good_bye: {type: text, font: SimHei, text: "采样模拟完成。记录 {report_count} 次报告，平均交替率 {alternation_rate:.2f} 次/分钟。\n\n按空格键退出。", color: white, height: 0.66, wrapWidth: 24, pos: [0, 0]}
 triggers:
   map: {experiment_start: 1, instruction: 5, alignment_check: 6, practice_rivalry: 7, block_start: 10, alignment_fixation: 20, rivalry_red_left_cyan_right: 31, rivalry_red_right_cyan_left: 32, report_left_tilt: 41, report_right_tilt: 42, report_mixed: 43, rivalry_no_report: 44, iti: 50, block_end: 90, experiment_end: 99}
-  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1}
+  driver: {type: mock, print_codes: true}
   policy: {strict: false}
   timing: {post_delay_s: 0.001}
 sim:
